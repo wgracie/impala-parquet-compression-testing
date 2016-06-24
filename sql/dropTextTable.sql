@@ -1,0 +1,15 @@
+drop table int_same_text;
+drop table int_diff_text;
+drop table int_increm_text;
+drop table double_same_text;
+drop table double_diff_text;
+drop table double_increm_text;
+drop table boolean_same_text;
+drop table boolean_diff_text;
+drop table boolean_increm_text;
+drop table string_same_text;
+drop table string_diff_text;
+drop table string_increm_text;
+drop table timestamp_same_text;
+drop table timestamp_diff_text;
+drop table timestamp_increm_text;

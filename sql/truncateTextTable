@@ -1,0 +1,15 @@
+truncate table int_same_text;
+truncate table int_diff_text;
+truncate table int_increm_text;
+truncate table double_same_text;
+truncate table double_diff_text;
+truncate table double_increm_text;
+truncate table boolean_same_text;
+truncate table boolean_diff_text;
+truncate table boolean_increm_text;
+truncate table string_same_text;
+truncate table string_diff_text;
+truncate table string_increm_text;
+truncate table timestamp_same_text;
+truncate table timestamp_diff_text;
+truncate table timestamp_increm_text;
